@@ -1,0 +1,3 @@
+# Module test_webrcp_swt_demos
+# RPC service class, partial path of RPC policy file
+com.trufun.webrcp.swt.demos.client.GreetingService, 3F73B1535EE64B6266B92799AC4C9E56.gwt.rpc
