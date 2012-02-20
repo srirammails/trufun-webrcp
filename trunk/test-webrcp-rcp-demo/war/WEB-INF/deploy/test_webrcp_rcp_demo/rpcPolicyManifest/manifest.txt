@@ -1,0 +1,2 @@
+# Module test_webrcp_rcp_demo
+# RPC service class, partial path of RPC policy file
