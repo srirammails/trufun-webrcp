@@ -1,0 +1,2 @@
+serviceClass: com.trufun.webrcp.swt.snippets.client.GreetingService
+path: F5DFA462B73F2334C66E922BD3934533.gwt.rpc
