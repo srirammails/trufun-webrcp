@@ -1,0 +1,2 @@
+serviceClass: com.trufun.webrcp.swt.demos.client.GreetingService
+path: 3F73B1535EE64B6266B92799AC4C9E56.gwt.rpc
