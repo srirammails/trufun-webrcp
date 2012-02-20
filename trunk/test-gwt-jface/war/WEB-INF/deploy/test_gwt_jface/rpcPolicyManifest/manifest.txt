@@ -1,0 +1,2 @@
+# Module test_gwt_jface
+# RPC service class, partial path of RPC policy file
