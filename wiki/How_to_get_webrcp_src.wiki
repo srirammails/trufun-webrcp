@@ -1,0 +1,24 @@
+#How to get the source of WebRCP?
+
+= Get Source! =
+
+WebRCP project is open source. You can contact us to get its source if you need to compile samples of WebRCP.
+
+You should fill these informations when you contact us:
+  * Your name
+  * Your country and your city
+  * Your phone
+  * Your email
+  * Your company
+  * Why you need WebRCP?
+
+
+Contact us：
+
+email: keven.trufun@gmail.com
+
+msn messager: keven.trufun@gmail.com
+
+qq: 570147781
+
+website: http://www.trufun.net
