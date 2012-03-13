@@ -1,6 +1,5 @@
-#How to get the source of WebRCP?
 
-= Get Source! =
+= How to get the source of WebRCP? =
 
 WebRCP project is open source. You can contact us to get its source if you need to compile samples of WebRCP.
 
