@@ -12,6 +12,17 @@ You should fill these informations when you contact us:
   * Your company
   * Why you need WebRCP?
 
+= 如何获取WebRCP源码? =
+
+WebRCP是完全开源的，你可以联系我们来获得所有源码来编译所有WebRCP的演示项目。
+
+当你联系我们时，请提供下面的信息:
+  * 你的名字
+  * 你的国家和所在城市
+  * 你的电话
+  * 你的邮箱
+  * 你所在的公司或者组织
+  * 为什么你需要WebRCP?
 
 Contact us：
 
