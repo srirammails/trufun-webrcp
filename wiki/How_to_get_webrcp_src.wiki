@@ -10,6 +10,7 @@ You should fill these informations when you contact us:
   * Your phone
   * Your email
   * Your company
+  * Your company's website
   * Your department
   * Your duties
   * Why you need WebRCP?
@@ -24,6 +25,7 @@ WebRCP是完全开源的，你可以联系我们来获得WebRCP源码来编译�
   * 你的电话
   * 你的邮箱
   * 你所在的公司或者组织
+  * 你所在的公司或者组织的网站
   * 你所在的部门
   * 你的职位
   * 为什么你需要WebRCP?
